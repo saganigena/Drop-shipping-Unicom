@@ -1,0 +1,7 @@
+echo "# Drop-shipping-Unicom" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/saganigena/Drop-shipping-Unicom.git
+git push -u origin main
